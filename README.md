@@ -1,3 +1,2 @@
-# test_docker_cicd_py
-
-This is a test folder used to learn how to setup an environment with Docker, GitHub, CI/CD, Python
+## Simple python docker dev example for the official docker docs
+https://docs.docker.com/language/python/containerize/
