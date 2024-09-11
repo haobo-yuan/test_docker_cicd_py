@@ -1,10 +1,11 @@
 # test_docker_cicd_py
 
-Author: Haobo Yuan
+**Author**: Haobo Yuan
 
 This repository contains a Python application containerized with Docker and integrated with a full CI/CD pipeline. The project uses GitHub Actions for automatic building, linting, and testing of the Docker image before pushing it to Docker Hub. This is a test  used to learn how to setup an environment with Docker, GitHub, CI/CD, Python. This is a part of Duke Univ IDS-706(Fall 24') Homework 1: Create Python Template.
 
 ## Useful Links
+
 - Docker Hub Repo
 > https://hub.docker.com/r/haoboyuanduke/test_docker_cicd_py
 
@@ -59,3 +60,5 @@ Simple python docker dev example for the official docker docs
 > https://docs.docker.com/language/python/containerize/
 > https://docs.docker.com/guides/language/python/configure-ci-cd/
 
+Python Project Scaffold and Makefile Setup, from coursera by Prof. Gift
+> https://www.coursera.org/videos/cloud-computing-foundations-duke/dxL50?query=scaffold&source=search
