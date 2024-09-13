@@ -55,6 +55,6 @@ jobs:
         run: |
           make format
           
-      - name: Deploy the app
-        run: |
-          make deploy
+      # - name: Deploy the app
+      #   run: |
+      #     make deploy
